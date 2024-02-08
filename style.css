@@ -538,5 +538,9 @@ footer li {
     .timeline li .timeline-panel::after {
         top: 31px;
     }
+
+    .mynavbar .offcanvas {
+        width: 150px;
+    }
     
 }
